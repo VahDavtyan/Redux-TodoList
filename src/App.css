@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  padding: 0;
+  font-family: montserrat;
+  background-color: #19133a;
+}
+
+.text {
+  color: #fb084b;
+}
+
+.todoList {
+  color: white;
+}
+
+.button-success {
+  background-color: #fb084b;
+  font-family: montserrat;
+  color: white;
+  border-radius: 3px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  margin: 0;
+  margin-left: 10px;
+}
+
+.input {
+  margin: auto;
+}
+
+
+
